@@ -1,0 +1,15 @@
+BenchLink (revision 3): a substitute finder for adult hockey leagues.
+League admins import team rosters from a SportsEngine roster export (CSV),
+captains see upcoming games and skater counts and request eligible subs from
+other teams, both game captains approve each sub before contact details are
+shared, and players keep their own phone number and sub availability current.
+Revision 2 lets players list their preferred positions (C, LW, RW, D, G).
+Revision 3 reads team divisions (Upper/Lower) and captain marks from a roster
+CSV saved from Excel, and shows each viewer of a confirmed sub's contact card
+only the other people.
+BenchLink has no live SportsEngine connection and sends no SMS or email.
+
+Built on the Fund2Build app kit v1 (src/appkit.py, copied verbatim). It uses
+only the Python standard library and includes no third-party code or assets.
+tests/sample_sportsengine_roster.txt and tests/sample_league_roster_upload.txt
+contain fictional names and numbers.

@@ -1,0 +1,21 @@
+Member ID,First Name,Last Name,Team Name,Jersey Number,Position,Email,Mobile Phone,Roster Status,Birth Date
+SE-500101,Avery,Stone,Harbour Hawks,12,Forward,avery.stone@example.com,(403) 555-0101,Active,1990-01-01
+SE-500102,Blake,Moreau,Harbour Hawks,4,Defense,blake.moreau@example.com,,Active,1991-02-02
+SE-500103,Casey,Lind,Harbour Hawks,31,Goalie,,403-555-0103,Active,1992-03-03
+SE-500104,Drew,Okafor,Harbour Hawks,9,F,drew.okafor@example.com,555-0104,Active,1989-04-04
+SE-500105,Emery,Vance,Harbour Hawks,17,D,,403.555.0105,Active,1993-05-05
+SE-500201,Finley,Hart,North Stars,8,Forward,finley.hart@example.com,(403) 555-0111,Active,1988-06-06
+SE-500202,Gray,Ellison,North Stars,22,Defense,,,Active,1990-07-07
+SE-500203,Harper,Quinn,North Stars,1,G,harper.quinn@example.com,+1 403 555 0113,Active,1994-08-08
+SE-500204,Indigo,Walsh,North Stars,14,C,,403 555 0114,Inactive,1987-09-09
+SE-500101,Avery,Stone,Harbour Hawks,12,Forward,avery.stone@example.com,(403) 555-0101,Active,1990-01-01
+SE-500301,Jordan,Pike,Valley Wolves,19,LW,jordan.pike@example.com,(403) 555-0121,Active,1991-10-10
+SE-500302,Kai,Brennan,Valley Wolves,5,D,,,Active,1992-11-11
+SE-500303,Logan,Reyes,Valley Wolves,30,Goaltender,logan.reyes@example.com,403-555-0123,Active,1986-12-12
+SE-500304,"Marlow, Jr.",Tate,Valley Wolves,11,RW,,(403) 555-0124,Active,1995-01-13
+,Nico,Ferris,Valley Wolves,77,F,,,Active,
+SE-500401,Oakley,Grant,Ridge Rovers,2,D,oakley.grant@example.com,(403) 555-0131,Active,1990-02-14
+SE-500402,Parker,Nguyen,Ridge Rovers,15,C,,403-555-0132,Active,1991-03-15
+SE-500403,Quinn,Adair,Ridge Rovers,35,G,,,Active,1993-04-16
+SE-500404,Rowan,Blake,Ridge Rovers,21,Forward,rowan.blake@example.com,not on file,Active,1988-05-17
+SE-500405,,,Ridge Rovers,,,,,Active,

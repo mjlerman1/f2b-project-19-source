@@ -1,0 +1,29 @@
+﻿athlete_1_first_name,athlete_1_last_name,Cell Phone,Team,League,Captain
+Avery,Lindqvist,(403) 555-0101,Lakeside Loons,Upper,Y
+Brennan,Okoro,403-555-0102,Lakeside Loons,Upper,
+Mary Kate,Fairbanks,403.555.0103,Lakeside Loons,Upper,
+Dario,Kestrel,,Lakeside Loons,Upper,
+Elin,Marchetti,(403) 555-0105,Lakeside Loons,Upper,
+Fenwick,Adeyemi,,Lakeside Loons,Upper,
+Gus,Thornbury,403-555-0107,Lakeside Loons,Upper,
+Hollis,Brandvold,403.555.0108,Summit Sabres,Upper,
+Imogen,Castellan,(403) 555-0109,Summit Sabres,Upper,yes
+Jory,Pembleton,,Summit Sabres,Upper,
+Kellan,Vossberg,403-555-0111,Summit Sabres,Upper,
+Lark,Ostrander,403.555.0112,Summit Sabres,Upper,
+Milo,Rasmark,(403) 555-0113,Summit Sabres,Upper,
+Nell,Tavistock,,Summit Sabres,Upper,
+Orrin,Westerholm,(403) 555-0115,Prairie Owls,Lower,
+Pia,Halvorsen,403-555-0116,Prairie Owls,Lower,
+Quill,Ashcombe,,Prairie Owls,Lower,x
+Rhea,Dunmore,403.555.0118,Prairie Owls,Lower,
+Soren,Blackwood,(403) 555-0119,Prairie Owls,Lower,
+Tamsin,Oakridge,,Prairie Owls,Lower,
+Ulric,Fennimore,403-555-0121,Prairie Owls,Lower,
+Vida,Kerrigan,403.555.0122,Creekside Otters,Lower,
+Wes,Harrowgate,(403) 555-0123,Creekside Otters,Lower,
+Xan,Lockridge,,Creekside Otters,Lower,
+Yara,Pellston,403-555-0125,Creekside Otters,Lower,Y
+Zeke,Moravec,403.555.0126,Creekside Otters,Lower,
+Ada,Brightwater,,Creekside Otters,Lower,
+Bram,Coldstream,(403) 555-0128,Creekside Otters,Lower,
